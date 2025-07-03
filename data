@@ -1,4 +1,0 @@
-/data/          → Local cultural corpora, annotations, audio/text samples  
-/prompts/       → Prompt templates for pantun, tembang, sisindiran, etc.  
-/models/        → Python scripts, AI modules, or prototype logic  
-/docs/          → Proposal drafts, flowcharts, extended research notes  
